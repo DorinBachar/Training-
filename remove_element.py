@@ -12,12 +12,4 @@ class Solution(object):
                 num += 1
         return num
 
-def main():
-    # Example usage
-    nums = [3, 2, 2, 3]
-    val = 3
-    k = removeElement(nums, val)
-
-if __name__ == "__main__":
-    main()
 
